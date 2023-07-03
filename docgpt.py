@@ -9,7 +9,7 @@ _ = load_dotenv(find_dotenv()) # read local .env file
 #openai.api_key = os.getenv("OPENAI_API_KEY")
 
 
-OPENAI_API_KEY = "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"
+OPENAI_API_KEY = "12121"
 openai.api_key = OPENAI_API_KEY
 
 guias_clinicas = ["tamizaje.txt", "diagnostico.txt", "tratamiento.txt"]
